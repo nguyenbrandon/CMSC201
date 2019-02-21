@@ -1,0 +1,27 @@
+Tesla Model S,black,4,2,90000 
+Honda CR-Z,purple,2,2,34562
+Toyota Carolla,green,2,3,23430
+Ford Falcon,blue,3,2,250120
+Ford Fiesta,red,4,5,19653
+Honda Odyssey,orange,4,3,32042
+Hyundai Santa Fe,black,2,4,49012
+Hyundai Accent,yellow,2,3,28502
+Honda CR-Z,black,4,4,34523
+Ford Ikon,blue,4,3,89563
+Honda Civic,red,4,3,35046
+Ford Ka,pink,2,3,36482
+Hyundai Elantra,red,4,5,18032
+Ferrari Barchetta,red,2,4,194023
+Ford Mondeo,black,2,4,39402
+Honda Fit,red,4,5,16530
+Ford Taurus,white,4,5,48293
+Hyundai Santa Fe,red,2,3,10924
+Honda Civic,blue,2,2,34065
+Ford F-Series,black,2,3,24823
+Hyundai Santa Fe,white,4,5,98402
+Ford LCF,blue,2,5,23476
+Lamborghini Murcielago,orange,2,5,340145
+Ford Super Duty,black,4,3,23045
+Honda CR-Z,red,2,4,43523
+Lamborghini Diablo,blue,2,3,328302
+Ford Fusion,blue,4,4,32905

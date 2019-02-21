@@ -1,0 +1,7 @@
+name = input("Please enter the animal you have: ")
+
+if name == "dog" or name ==  "cat":
+    print ("This is a pet.")
+
+else:
+    print ("This is not a pet.")

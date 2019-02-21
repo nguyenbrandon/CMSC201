@@ -1,0 +1,19 @@
+degrees = int(input("Please enter a temperature in Fahrenheit: "))
+
+
+if degrees < 25:
+    print("It's freezing outside.")
+
+if degrees > 24 and degrees < 50:
+    print("It's a bit chilly, remember to bundle up.")
+
+if degrees > 49 and degrees < 80:
+    print("The weather is wonderful!")
+
+if degrees > 79 and degrees < 101:
+    print("It's pretty hot outside")
+
+if degrees > 100:
+    print("It is way too hot.")
+
+
